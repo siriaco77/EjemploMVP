@@ -32,5 +32,5 @@ public class AlCuadradoPresentador implements AlCuadrado.presentador {
 
     }
 
-    
+
 }

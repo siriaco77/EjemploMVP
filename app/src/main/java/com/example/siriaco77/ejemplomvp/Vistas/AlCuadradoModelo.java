@@ -16,6 +16,6 @@ public class AlCuadradoModelo  implements AlCuadrado.modelo {
         resultado =  Double.valueOf(data)*2;
 
         presentador.showResults(String.valueOf(resultado));
-
+//commit
     }
 }
